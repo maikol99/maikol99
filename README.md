@@ -15,7 +15,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-🚀 I’m currently a Senior Programming Technician (UTN)
+🚀 Técnico en Programación (UTN)
 
 📚 I’m currently learning web development
 

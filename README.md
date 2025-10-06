@@ -15,16 +15,15 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently Tecnico superior en Programacion (UTN)
-  
-- 🌱 I’m currently learning development web
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, JavaScript
-  
-- 📈 Me motiva mejorar un poco cada día.
+🚀 I’m currently a Senior Programming Technician (UTN)
 
+📚 I’m currently learning web development
+
+🤝 I’m looking to collaborate on projects
+
+💡 Always seeking personal and professional growth
+
+📈 Motivated to improve a little every day
 
 
 
